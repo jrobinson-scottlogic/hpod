@@ -1,6 +1,6 @@
 # hpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/tailuge/hpod)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/jrobinson-scottlogic/hpod)
 
 This project contains a gitpod Docker file that installs the haskell platform
 
